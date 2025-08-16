@@ -33,5 +33,5 @@ Each notebook covers an important building block of Convolutional Neural Network
 Clone this repository and open the notebooks in **Jupyter Notebook** or **Google Colab**:
 
 ```bash
-git clone https://github.com/<Kahkashan2708>/computer-vision-Kaggle.git
+git clone https://github.com/<Kahkashan2708>/Computer-Vision-Kaggle.git
 cd Computer-Vision-Kaggle
